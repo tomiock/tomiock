@@ -9,7 +9,5 @@ Projects:
 
 
 ### Workflow
-- [Nix/NixOS](https://github.com/tomiock/nix-config)
-- [Neovim](https://github.com/tomiock/neovimrc)
-
-Just use the terminal O_o
+- [Nix/NixOS](https://github.com/tomiock/nix-config) my dot files, you can copy my computer from these
+- [Neovim](https://github.com/tomiock/neovimrc) the best editor, "simplicity" is the key
