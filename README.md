@@ -3,7 +3,7 @@
 I code and I try to make Deep Learning. Pursuing a research career.
 
 Projects:
-- [Deep Learning Framework](https://github.com/tomiock/macrograd) from scratch (CUDA is missing)
+- [Deep Learning Framework](https://github.com/tomiock/macrograd) from scratch (CUDA is missing :(
 - [Quantum Machine Learning](https://github.com/tomiock/quantum-GAN), a high school research project
 - [Computer Vision and League of Legends](https://github.com/tomiock/LeagueOfLegends-Analytics) (yes, really)
 
