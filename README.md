@@ -1,6 +1,6 @@
 ## Artificial Intelligence Undergrad
 
-I code and I try to make Deep Learning. Pursuing a research career.
+I code and I try to make deep learning stuff. Pursuing a research career, interest on neural scaling laws.
 
 Projects:
 - [Deep Learning Framework](https://github.com/tomiock/macrograd) from scratch (CUDA is missing :(
