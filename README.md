@@ -2,7 +2,7 @@
 
 I code and I try to make deep learning stuff. Pursuing a research career, interest on neural scaling laws.
 
-Projects:
+### Projects:
 - [Deep Learning Framework](https://github.com/tomiock/macrograd) from scratch (CUDA is missing :(
 - [Quantum Machine Learning](https://github.com/tomiock/quantum-GAN), a high school research project
 - [Computer Vision and League of Legends](https://github.com/tomiock/LeagueOfLegends-Analytics) (yes, really)
