@@ -1,6 +1,7 @@
 ## Artificial Intelligence Undergrad
 
 I code and I try to make deep learning stuff. Pursuing a research career, interest on neural scaling laws.
+
 [Check my website](https://tomiock.com/) to see my "porfolio" and more info. I have articles and some tools.
 
 ### Projects:
